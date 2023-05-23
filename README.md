@@ -1,0 +1,1 @@
+# angular-custom-search-using-pipes
