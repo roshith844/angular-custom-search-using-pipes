@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'myapp';
+  searchInput = ""
+  data = [{name: 'ramu', age: '20'}, {name : 'rahul', age: '30'}]
 }
