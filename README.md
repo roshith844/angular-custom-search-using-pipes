@@ -1,3 +1,9 @@
+
+* Create a component USER-TABLE with route user/user-table
+* Design the table.
+* Display the details using the given API - https://zil-test.s3.us-east-1.amazonaws.com/json-data.json
+* Implement Search to all the columns by creating CUSTOM SEARCH PIPE.(not use the npm packages)
+
 # Myapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
